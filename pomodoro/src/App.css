@@ -1,0 +1,19 @@
+* {
+  font-family: Roboto, sans-serif !important;
+}
+
+#content {
+  display: flex;
+  flex-direction: column;
+  padding: 16px;
+}
+
+section {
+  display: flex;
+  margin-top: 16px;
+  align-items: center;
+}
+
+mwc-textfield {
+  margin-right: 16px;
+}
